@@ -1,4 +1,4 @@
-# TugofWar
+# Tug of War
 
 
-### Tug of war, duel to the death....run this code using an FPGA an find out!!! 🥊
+### Who doesn't like a good old duel to the death. Run this code using an FPGA an find out!!! 🥊
